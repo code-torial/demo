@@ -1,0 +1,8 @@
+{
+  "title": "Codetorial Demo",
+  "homeUrl": "https://codetorial.netlify.app",
+  "logoUrl": "/logo.png",
+  "courses": [
+    "cat-generator"
+  ]
+}
