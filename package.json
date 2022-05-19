@@ -7,8 +7,8 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "devDependencies": {
+  "dependencies": {
     "vite": "^2.9.9",
-    "vite-plugin-html-env": "^1.1.2"
+    "vite-plugin-ejs": "^1.4.4"
   }
 }

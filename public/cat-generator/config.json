@@ -1,0 +1,14 @@
+{
+  "title": "Cat Generator",
+  "template": "vue",
+  "dependencies": {
+    "vue": "^3.2.16"
+  },
+  "lessons": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ]
+}
