@@ -12,7 +12,7 @@ export default {
   setup() {
     const imgUrl = ref(getImageUrl())
     function newImage() {
-      imgUrl.value = getImageUrl()
+      console.log('clicked')
     }
     return {
       imgUrl,
@@ -26,7 +26,7 @@ export default {
   <div class="content">
     <h1>Here's your cat</h1>
     <img :src="imgUrl" />
-    <button>Moar plz</button>
+    <button @click="newImage">Moar plz</button>
   </div>
 </template>
 
